@@ -1,0 +1,27 @@
+itemGroup.BuildingStaff=建筑类
+itemGroup.GollumDevTools=开发者工具
+
+item.Infos.name=放大镜信息
+item.Wrench.name=扳手
+
+gollumcorelib.Building staff=建筑类
+
+gollumcorelib.config.level=日志消息级别
+gollumcorelib.config.numberLogFilesUse=日志文件的最大数目
+gollumcorelib.config.devTools=开发者工具
+gollumcorelib.config.versionChecker=显示版本检查的信息
+
+gollumcorelib.config.Configuration=配置
+gollumcorelib.config.BuildingsList=建筑列表
+gollumcorelib.config.General=通用
+
+gollumcorelib.config.search=查找
+
+gollumcorelib.config.group=组
+gollumcorelib.config.globalSpawnRate=总组的刷新率
+gollumcorelib.config.building=建筑
+gollumcorelib.config.enabled=开启
+gollumcorelib.config.dimention=维度
+gollumcorelib.config.spawnRate=每组的刷新率
+gollumcorelib.config.spawnHeight=刷新高度检测
+gollumcorelib.config.blocksSpawn=方块刷新检测
